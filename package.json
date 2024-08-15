@@ -20,7 +20,8 @@
     "react": "^18",
     "react-dom": "^18",
     "react-hook-form": "^7.51.5",
-    "yup": "^1.4.0"
+    "yup": "^1.4.0",
+    "sharp": "^0.33.0"
   },
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.7",
